@@ -5,7 +5,6 @@ html {
     box-sizing: border-box;
 }
 
-/* TITLE */
 .main-title {
     text-align: center;
     color: white;
@@ -173,7 +172,6 @@ article p {
     .main-style {
         flex-direction: column;
     }
-
     .img-content {
         width: 80%;
     }
